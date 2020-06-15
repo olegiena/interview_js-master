@@ -1,0 +1,6 @@
+
+# Rules for Single Page Applications
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

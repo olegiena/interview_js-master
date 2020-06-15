@@ -1,0 +1,42 @@
+
+/* LAYOUT */
+.layout {
+    min-height: 100vh;
+}
+
+.breadcrumb {
+    margin: 1em 0;
+}
+
+.footer {
+    text-align: center;
+}
+
+/* PAGE */
+.page-content {
+    margin: 1em;
+}
+
+.page-content-bg {
+    background: white;
+    padding: 1em;
+    min-height: 100vh;
+}
+
+/* HEADER */
+.page-header {
+    background: #23304f;
+}
+
+.ant-page-header-title-view-title {
+    color: white;
+}
+
+/* LOGO */
+.app-logo {
+    text-align: center;
+}
+
+.app-logo-icon {
+    font-size: 3em;
+}

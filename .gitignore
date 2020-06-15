@@ -1,0 +1,31 @@
+# FILES
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log
+yarn-error.log*
+yarn-debug.log*
+.DS_Store
+._*
+.nyc_output
+*.log
+*.iml
+*.tern-project
+*.tern-port
+*.zhtml
+.pnp.js
+tags
+
+# DIRECTORIES
+node_modules
+/build
+/node_modules
+/.pnp
+/.build
+/.idea
+/.vscode
+/.out
+.history
+/coverage
+/test-report
